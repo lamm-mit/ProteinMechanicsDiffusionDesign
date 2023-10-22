@@ -15,7 +15,7 @@ A colab notebook is included in this repository that feature the trained model. 
 
 <a target="_blank" href="https://colab.research.google.com/github/lamm-mit/ProteinMechanicsDiffusionDesign/blob/main/notebook_for_colab/pLDM_inferring_standalong_colab.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> <br />
+</a>
 [a relative link](./notebook_for_colab/pLDM_inferring_standalong_colab.ipynb)
 
 To install and run, just clike the "open in Colab" badge or the link above and run all.
