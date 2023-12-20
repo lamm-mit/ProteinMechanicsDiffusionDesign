@@ -131,4 +131,4 @@ dmypy.json
 # ++
 # for SuperCloud setup
 
-notebook_for_colab/pLDM_inference_standalone_colab_working.ipynb
+/notebook_for_colab/pLDM_inference_standalone_colab_working.ipynb
