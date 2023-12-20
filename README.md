@@ -11,9 +11,9 @@ Through evolution, nature has presented a set of remarkable protein materials, i
 
 ### Installation and use
 
-A [colab notebook](./notebook_for_colab/pLDM_inferring_standalong_colab.ipynb) is included in this repository that feature the trained model. <br />
+A [colab notebook](./notebook_for_colab/pLDM_inference_standalone_colab.ipynb) is included in this repository that feature the trained model. <br />
 
-<a target="_blank" href="https://colab.research.google.com/github/lamm-mit/ProteinMechanicsDiffusionDesign/blob/main/notebook_for_colab/pLDM_inferring_standalong_colab.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/lamm-mit/ProteinMechanicsDiffusionDesign/blob/main/notebook_for_colab/pLDM_inference_standalone_colab.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
   
