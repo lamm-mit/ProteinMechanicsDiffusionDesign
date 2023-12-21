@@ -18,6 +18,7 @@ A [colab notebook](./notebook_for_colab/pLDM_inference_standalone_colab.ipynb) i
 </a> 
   
 
-To install and run, just clike the "open in Colab" badge and run all.
+To install and run, just click the "open in Colab" badge and choose to run all.
 Note that, the first run may take time as it includes downloading and installing packages and the trained model.
+The pretrained model is downloaded from and hosted on [this huggingface repository](https://huggingface.co/lamm-mit/ProteinMechanicsDiffusionDesign).
 
