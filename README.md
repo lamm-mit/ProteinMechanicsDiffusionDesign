@@ -2,6 +2,7 @@
 
 ## End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model
 
+B. Ni, D.L. Kaplan, M.J. Buehler, ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model. Sci. Adv. 10, eadl4000 (2024). DOI: 10.1126/sciadv.adl4000
 
 ![plot](./documents/Figure1.png)
 
@@ -22,3 +23,6 @@ To install and run, just click the "open in Colab" badge and choose to run all.
 Note that, the first run may take time as it includes downloading and installing packages and the trained model.
 The pretrained model is downloaded from and hosted on [this huggingface repository](https://huggingface.co/lamm-mit/ProteinMechanicsDiffusionDesign).
 
+### Reference
+
+B. Ni, D.L. Kaplan, M.J. Buehler, ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model. Sci. Adv. 10, eadl4000 (2024). DOI: 10.1126/sciadv.adl4000
